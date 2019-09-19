@@ -14,6 +14,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 In this R notebook, we process the raw textual data for our data analysis.
 
+### THIS FILE HAS JUST BEEN SLIGHTLY ADAPTED BY ME (TIM) IN STEP 2
+
 ### Step 0 - Load all the required libraries
 
 From the packages' descriptions:
@@ -140,7 +142,7 @@ dt_lyrics <- dt_lyrics %>%
 ### Exporting the processed text data into a CSV file
 
 ```{r export data}
-save(dt_lyrics, file="output/processed_lyrics_gender.RData")
+save(dt_lyrics, file="../output/processed_lyrics_gender.RData")
 ```
 
 The final processed data is ready to be used for any kind of analysis.
