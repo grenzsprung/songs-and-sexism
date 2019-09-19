@@ -14,7 +14,7 @@ Term: Fall 2019
 
 + Project summary: This data story is a journey through the traces of sexism in our everyday music life. You will learn which genre might be best for your kids and whether the music you are listening to while driving your kids to school is as progressive as it sounds. By drawing on an analysis of sentiments and topics of songs across genres and time, this data story provides you with essential insights on how women are portrayed and talked about in music.
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is organized as follows.
 
 ```
 proj/
