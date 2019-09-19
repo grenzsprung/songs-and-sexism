@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Parenting in the twenty-first century is not an easy endeavor. Yet, the values we teach our children are core to a sustainable and just future. Today, the idea of gender equality is heavily fostered by parents around the globe. Some parents seem more successful in doings so than others. It seems that our everyday environment has a big effect.
 
-![](/Users/timschleicher/Documents/M.Sc Data Science/Columbia Classes/ADS/explicit-music.jpg)
+![](../figs/explicit-music.jpg)
 
 Many of us take very good care with whom our children play or what movies they watch. When it comes to music, however, one of the few paradigms seems to be that Hip-Hop music is detrimental to our kids' growing value sets. We often connect Hip-Hop with explicit sexism. And this might be justified. But what about other genres: How are women portrayed in Jazz, Pop, or Metal? And in which genre are songs about women most positive?
 
@@ -41,15 +41,13 @@ library(imager)
 library(tidyr)
 
 
-setwd('/Users/timschleicher/Documents/M.Sc Data Science/Columbia Classes/ADS')
-
 # The pre-processing was done along the the starter code given to us. There is one 
 # exception though: I did excluded female and male third person singular pronouns 
 # from the stop words. Like this I can later look at which songs are talking heavily
 # about women (and men). The pre-processing can be retraced in a separate doc in 
 # this folder.
 
-load('output/processed_lyrics_gender.RData') 
+load('../output/processed_lyrics_gender.RData') 
 lyrics_gender <- dt_lyrics
 
 
@@ -263,5 +261,5 @@ The good news is: the share of negative sentiments in Metal and Hip-Hop songs ab
 
 Or maybe they should rather make Jazz music themselves...
 
-![](/Users/timschleicher/Documents/M.Sc Data Science/Columbia Classes/ADS/kids-jazz.jpg)
+![](../figs/kids-jazz.jpg)
 
