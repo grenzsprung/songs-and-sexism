@@ -36,8 +36,7 @@ library(DT)
 
 ```{r}
 # load lyrics data
-setwd("/Users/timschleicher/Documents/M.Sc Data Science/Columbia Classes/ADS")
-load('data/lyrics.RData') 
+load('../data/lyrics.RData')
 
 ```
 
