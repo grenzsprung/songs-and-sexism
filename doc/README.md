@@ -2,7 +2,7 @@
 
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+The doc directory contains the report and presentation files.
 
 [This](doc/0919_Sexism_Revisited_v1.Rmd) contains the RMD code for project 1
 
