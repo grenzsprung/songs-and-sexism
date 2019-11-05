@@ -103,17 +103,6 @@ ggplot() +
   labs(x = "Genre", y = "Share of negative sentiments", 
        title = "Negative sentiments in songs about women")
 
-```
-
-To Metal fans, the results might be breathtaking. The plot clearly shows that Metal as well as Hip-Hop songs about women are by far the songs with the highest shares of negative sentiments. Jazz and Folk songs, however, seem to talk the most positive about women. 
-
-### A positive note: What makes Jazz songs about women so nice?
-
-The word cloud with dominant terms in Jazz songs about women is full of "love". Probably, this does not come surprisingly to you since many songs we know are about love. 
-
-However, some of you might argue that certain dominant terms here could even be perceived as sexist. It should be noted though that this word cloud gives an overall positive impression.
-
-```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 #### Here, I want to visualize dominant words of a respective genre
 
