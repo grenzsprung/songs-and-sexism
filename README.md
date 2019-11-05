@@ -21,7 +21,7 @@ proj/
 ├── doc/
 ├── figs/
 ├── output/
-└── plain-analysis.R
+└── analysis-plain.R
 ```
 
 Please see each subfolder for a README file.
