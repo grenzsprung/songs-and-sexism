@@ -20,7 +20,8 @@ proj/
 ├── data/
 ├── doc/
 ├── figs/
-└── output/
+├── output/
+└── plain-analysis.R
 ```
 
 Please see each subfolder for a README file.
