@@ -1,4 +1,4 @@
-# Applied Data Science @ Columbia
+# Applied Data Science @ Columbia University
 ## Fall 2019
 ## Project 1: A "data story" on the songs of our times
 
