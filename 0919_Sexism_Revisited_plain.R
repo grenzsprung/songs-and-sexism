@@ -2,7 +2,7 @@
 #
 # Tim Schleicher
 # Sexism Revisited Or Why Our Kids Should Listen To Jazz
-# Plain R Script [Please use RMD file instead!]
+# Plain R Script [Please use .Rmd file in /doc instead!]
 #
 ####################
 
@@ -213,8 +213,3 @@ ggplot() +
   theme_minimal() +
   labs(x = "Time", y = "Share of negative sentiments", 
        title = "Negative sentiments in songs about women over time")
-
-
-
-
-
