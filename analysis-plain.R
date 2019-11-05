@@ -25,7 +25,7 @@ library(tidyr)
 
 
 # The pre-processing was done along the the starter code given to us. There is one 
-# exception though: I did excluded female and male third person singular pronouns 
+# exception though: I excluded female and male third person singular pronouns 
 # from the stop words. Like this I can later look at which songs are talking heavily
 # about women (and men). The pre-processing can be retraced in a separate doc in 
 # this folder.
